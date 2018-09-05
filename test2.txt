@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-james
-=======
+
+jame
  test2
 
 changed by james
->>>>>>> changed at james branch
+
