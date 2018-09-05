@@ -1,5 +1,1 @@
-test2
-change at master
-change at master 2
-change at master 3
-changed by james~
+james
